@@ -1,4 +1,4 @@
-# tictactoe-with-AI
+# TicTacToe-with-AI
 
 A classic, terminal-based Tic-Tac-Toe game written in Python. What sets this game apart is its artificial intelligence: the computer opponent uses the **Minimax algorithm** to calculate the optimal move every single turn. This makes the computer mathematically unbeatable—the best you can hope for is a tie!
 
